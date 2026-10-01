@@ -1,4 +1,4 @@
-# Minecraft 生物动画骨骼图鉴 (MC Animation Atlas)
+# MC 骨骼动画图鉴 (MC Animation & Skeleton Atlas)
 
 从**最新版基岩版**官方 bedrock-samples 与 **Java版** 客户端反编译源码中提取的全部实体动画、骨骼与 Molang 变量。
 
@@ -19,4 +19,4 @@
 
 ## 访问
 
-GitHub Pages 部署后访问 `https://<owner>.github.io/mc-animation-atlas/`
+GitHub Pages 部署后访问 `https://<owner>.github.io/gige/`
