@@ -17,6 +17,13 @@
 - 变量出现次数: 2772
 - Java 模型类: 140 / Java 动画方法: 73
 
-## 访问
+## 目录结构
 
-GitHub Pages 部署后访问 `https://<owner>.github.io/gige/`
+- `网页/index.html` — 图鉴网站主文件（单文件，内嵌数据）
+- `.github/workflows/部署图鉴网站.yml` — GitHub Actions 自动部署工作流
+
+## 在线访问
+
+https://shishen650.github.io/gige/
+
+推送到 `gugedonghua` 分支后会自动触发 Actions 构建并部署。
